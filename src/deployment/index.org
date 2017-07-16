@@ -53,7 +53,7 @@ requires = [
     'pyOpenSSL',
     'pycparser',
     'requests',
-    'requests-oauthlib',
+    'requests_oauthlib',
     'six',
     'urllib3',
     'wsgiref'
